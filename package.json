@@ -52,7 +52,7 @@
     "expect": "^29.3.1",
     "mocha": "^12.0.3",
     "oxfmt": "^0.74.0",
-    "oxlint": "^1.89.0",
+    "oxlint": "^1.92.0",
     "semantic-release": "25.0.9",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.2"
