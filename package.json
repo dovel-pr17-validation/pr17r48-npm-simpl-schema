@@ -51,7 +51,7 @@
     "@types/mocha": "^10.0.10",
     "expect": "^29.3.1",
     "mocha": "^12.0.3",
-    "oxfmt": "^0.74.0",
+    "oxfmt": "^0.77.0",
     "oxlint": "^1.89.0",
     "semantic-release": "25.0.9",
     "ts-node": "^10.9.2",
